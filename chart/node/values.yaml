@@ -24,8 +24,6 @@ hpa:
   metrics:
     cpu:
       targetAverageUtilization: 1
-    memory:
-      targetAverageUtilization: 70
 services:
 base:
   enabled: false
