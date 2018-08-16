@@ -23,7 +23,7 @@ hpa:
   maxReplicas: 2
   metrics:
     cpu:
-      targetAverageUtilization: 10
+      targetAverageUtilization: 1
     memory:
       targetAverageUtilization: 70
 services:
